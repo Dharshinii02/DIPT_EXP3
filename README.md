@@ -40,8 +40,8 @@ To obtain a histogram for finding the frequency of pixels in an image with pixel
 ### i) Histogram of Grayscale Image and Histogram Equalization
 
 ```python
-# Developed By: Lorena Avelyn R
-# Register Number: 212224040174
+# Developed By: Dharshini J
+# Register Number: 212224240036
 
 import cv2
 import numpy as np
